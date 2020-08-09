@@ -1,0 +1,3 @@
+npx create-react-app frontend - cria um projeto react
+npm init -y - preenche sozinho os campos
+npm start - roda os scripts do package.json
